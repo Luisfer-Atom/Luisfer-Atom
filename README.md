@@ -1,4 +1,28 @@
-<h1 align="center">Hey 👋What's Up?<br>I am Luis Fernando!</h1>
+  [![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
+<p>
+  <h1 align="center"><b>Hello there, I'm Luis Fernando!👋</b></h1>
+</p>
+
+<p>
+  <h4 align="center"><b><i>"First, solve the problem. Then, write the code."</i></b></h4>
+</p>
+
+<img align="right" height="270px" alt="GIF" src="https://media.giphy.com/media/CVtNe84hhYF9u/giphy.gif" />
+
+### I am a Full Stack QA Tester
+- 💻 Service Desk Administrator @ <a href="https://www.wipro.com/es-MX/">Wipro </a>
+- 🔭 I’m currently working on my Portfolio Website :grin:
+- 🌱 I’m currently a Junior QA Engineer interested in getting involved and developing in the world of technology..
+- 👯 I’m looking to collaborate with other QA Engineers :wink:
+- 🥅 2025 Goals: Trained and certified as a QA Engineer from the TripleTen Bootcamp.
+- 💬 Ask me about anything, I am happy to help :smile:
+- 📬 How to reach me: [Let's get in touch!][linkedin]
+- 🧗 I try to: Go beyond and push the bounds
+- ⚡ Fun fact: I love connecting with different people :raised_hands:
+
+<br>
+
+### Languages and Tools: 
 
 ###
 
